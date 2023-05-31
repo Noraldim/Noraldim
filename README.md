@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [projects](https://noraldim.net/posts/)
 
-- 📝 some of my articales [blogs]([dev.to/noraldim](https://noraldim.net/posts/))
+- 📝 some of my articales [blogs](https://noraldim.net/posts/)
 
 
 
