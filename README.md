@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Noraldim</h1>
 <h3 align="center">Cloud engineer</h3>
 
-- 🔭 Done Projects [ChatBot](https://dev.to/noraldim/telegram-chatbox-2g0n)
+- 🔭 Done Projects [ChatBot](https://noraldim.net/posts/cat/)
 
 - 🌱 I’m currently learning **cloud beas softwer**
 
-- 👨‍💻 All of my projects are available at [dev.to/noraldim](dev.to/noraldim)
+- 👨‍💻 All of my projects are available at [projects](https://noraldim.net/posts/)
 
-- 📝 I regularly write articles on [dev.to/noraldim](dev.to/noraldim)
+- 📝 some of my articales [blogs]([dev.to/noraldim](https://noraldim.net/posts/))
 
-- 📫 How to reach me **noralidmk@gmail.com**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
