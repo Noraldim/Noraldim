@@ -7,7 +7,7 @@ When delving into the realm of Linux and its association with cloud computing, o
 
 - 🔭 Done Projects [ChatBot](https://noraldim.net/posts/cat/)
 
-- 🌱 I’m currently learning **cloud beas softwer**
+- 🤖 try it [BOT](https://t.me/dootobot)
 
 - 👨‍💻 All of my projects are available at [projects](https://noraldim.net/posts/)
 
