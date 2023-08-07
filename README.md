@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noraldim</h1>
 <h3 align="center">Cloud engineer</h3>
-./,/.,,.,.,,
+
 
 
 When delving into the realm of Linux and its association with cloud computing, one might initially perceive them as distinct entities. However, the interconnection between the two proves to be immensely robust and pivotal. It is noteworthy that a multitude of cloud computing services strategically rely on Linux as their preferred operating system for effectively managing their servers. In particular, Linux distributions such as ‘Ubuntu LTS server’ have garnered widespread acclaim due to their inherent compatibility and aptness for serving as a stable and well-suited OS within the context of cloud computing environments. The seamless integration of Linux into the fabric of cloud computing infrastructure serves as a testament to its indispensability and the crucial role it plays in facilitating efficient and reliable service delivery.
