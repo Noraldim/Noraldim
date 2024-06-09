@@ -6,13 +6,13 @@ When delving into the realm of Linux and its association with cloud computing, o
 
 
 
-- 🔭 Done Projects [ChatBot](https://noraldim.net/posts/cat/)
+- 🔭 Done Projects [ChatBot](https://noraldim.xyz/posts/cat/)
 
 - 🤖 try it [BOT](https://t.me/dootobot)
 
-- 👨‍💻 All of my projects are available at [projects](https://noraldim.net/posts/)
+- 👨‍💻 All of my projects are available at [projects](https://noraldim.xyz/posts/)
 
-- 📝 some of my articales [blogs](https://noraldim.net/posts/)
+- 📝 some of my articales [blogs](https://noraldim.xyz/posts/)
 
 
 <h3 align="left">Languages and Tools:</h3>
